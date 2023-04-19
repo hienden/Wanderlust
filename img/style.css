@@ -1,0 +1,187 @@
+.suq{
+    max-width: 720px;
+    padding: 0px;
+    font-family: 'Roboto', sans-serif;
+    border: 1px solid #231f20;
+    font-size: 14.4px;
+    color: #59534D;
+    margin: auto;
+    line-height: 1.3;
+    background: #fff;
+}
+strong{
+    font-weight: bold;
+}
+img{
+    border: none;
+    max-width: 100%
+}
+img.img1 {
+    max-width: 177px;
+}
+.b p {
+    background: #342C20;
+    padding: 33px;
+    border-radius: 50%;
+    text-align: center;
+    max-width: 156px;
+    position: absolute;
+    top: -74px;
+    right: -45px;
+    line-height: 1.5;
+}
+.suq_l{
+    width: 51%;
+    float: left;
+    background: #4a8b2c;
+    color: #fff;
+    padding: 24px 30px 108px 30px;
+}
+img.img3 {
+    max-width: 129px;
+    margin: 0 0 34px 0;
+}
+.b strong {
+    color: #C7D3AF;
+}
+
+.c {
+    text-align: right;
+}
+.suq_r{
+    width: 49%;
+    float: right;
+    position: relative;
+    padding: 32px 32px 5px 32px;
+}
+
+ul{
+    margin: 0 0 40px 0;
+    padding: 0 0 0 0
+}
+h2 span {
+    color: #C7D3AF;
+}
+
+.d span {
+    color: #4A8B2C;
+}
+img.img5 {
+    max-width: 57px;
+    position: absolute;
+    top: 17px;
+    right: -13px;
+}
+
+.d {
+    position: relative;
+}
+p.f {
+    position: absolute;
+    bottom: 0;
+    left: -337px;
+    color: #fff;
+}
+li {
+    list-style-type: none;
+    padding-left: 24px;
+    text-align: left;
+    position: relative;
+    color: #342C20;
+    padding: 4px 0 3px 44px;
+    line-height: 1.6;
+}
+li:before {
+    content: "";
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    left: 2px;
+    top: 3px;
+    background: url(4.png) no-repeat;
+    background-size: 27px;
+}
+
+li:nth-of-type(1):before {
+    background-position: left -1%;
+}
+li:nth-of-type(2):before {
+    background-position: left 36%;
+}
+li:nth-of-type(3):before {
+    background-position: left 73%;
+}
+li:nth-of-type(4):before {
+    background-position: left 112%;
+}
+a {
+    color: inherit;
+    text-decoration: none
+}
+h1{
+	font-size: 15.7px;
+	margin: 15px 0 14px;
+	line-height: normal;
+	font-weight: normal;
+	color: #729F4B;
+}
+p{
+    margin: 0px 0px 14px
+}
+.b {
+    position: relative;
+}
+.nd{
+    padding: 0;
+}
+h1 span{
+    font-size: 14px
+}
+h2{
+    font-weight: normal;
+    margin: 15px 0 42px 0;
+    font-size: 67px;
+    line-height: 70px;
+} 
+h3{
+    font-weight: normal;
+    margin: 0 0 0 0;
+    font-size: 16px;
+    line-height: normal;
+} 
+h1 strong{
+    font-size: 26px;
+}
+
+/*---------bootraps------------*/
+div{
+    display: block;
+}
+.clearfix:after {
+    clear: both;
+    content: ".";
+    display: block;
+    height: 0;
+    visibility: hidden;
+}
+.clearfix {
+    display: inline-block;
+}
+.clearfix {
+    display: block;
+}
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.img-responsive{
+    max-width: 100%;
+    display: block;
+}
+body {
+}
+
+body{
+    margin: 8px 0px
+}
